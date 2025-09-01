@@ -12,7 +12,7 @@ Este projeto converte um trecho de um vídeo em um arquivo GIF utilizando o FFmp
 
 1. Clone o repositório.
 
-2. Execute o script principal com as permissões necessárias:
+2. No terminal, execute o script principal:
 
    ```bash
    deno task start
